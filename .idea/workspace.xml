@@ -21,7 +21,11 @@
   <component name="ChangeListManager">
     <list default="true" id="193ca441-e67e-49b5-9e1f-7c4c7a2d66db" name="Default Changelist" comment="template">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_includes/landing-page.html" beforeDir="false" afterPath="$PROJECT_DIR$/_includes/landing-page.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/projects.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/projects.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/skills-frameworks.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/skills-frameworks.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/skills-languages.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/skills-languages.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/skills-tools.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/skills-tools.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_data/timeline.yml" beforeDir="false" afterPath="$PROJECT_DIR$/_data/timeline.yml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,7 +66,8 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1636708980723</updated>
-      <workItem from="1636708982128" duration="2957000" />
+      <workItem from="1636708982128" duration="3337000" />
+      <workItem from="1636770130115" duration="333000" />
     </task>
     <task id="LOCAL-00001" summary="second">
       <created>1636709011651</created>
@@ -176,7 +181,14 @@
       <option name="project" value="LOCAL" />
       <updated>1636711737522</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="template">
+      <created>1636712038329</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1636712038329</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -192,6 +204,7 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="second" />
@@ -199,10 +212,10 @@
     <option name="LAST_COMMIT_MESSAGE" value="template" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1636711742762">
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2" timestamp="1636712044062">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1636711742762" />
+    <state x="361" y="145" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1636712044062" />
     <state x="468" y="144" width="600" height="536" key="find.popup" timestamp="1636710158218">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
